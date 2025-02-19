@@ -1,0 +1,42 @@
+.maroon{color:pink;}
+.navy{color:chocolate}
+.indigo{color:lightblue}
+.spacing{letter-spacing: 2px; word-spacing: 5px; line-height: 20px;}
+
+.uppercase{text-transform: uppercase;}
+.lowercase{text-transform: lowercase;}
+.capitalize{text-transform: capitalize;}
+.paragraf{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+ul{
+    list-style-type:circle ;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.btn-red {padding: 10px; background: #fc0202; color: #fff;}
+.btn-blue{padding: 10px; background: blue; color: #fff;}
+.btn-pink{padding: 10px; background: pink; color: #fff;}
+.btn-lightblue{padding: 10px; background: lightblue; color: #fff;}
+.btn-grey{padding: 10px; background: grey; color: #fff;}
+.btn-turquoise{padding: 10px; background: turquoise; color: #fff;}
+
+.solid{
+    border-style: solid; border-width: 4px; border-color: #000;}
+.dotted{
+    border-style: dotted; border-width: 4px; border-color: #000;}
+.double{
+    border-style: double; border-width: 8px; border-color: #000;}
+.ridge{
+    border-style: ridge; border-width: 4px;}
+.inset{
+    border-style: inset; border-width: 8px;}
+.outset{
+    border-style: outset; border-width: 8px;}
+.round{
+    border-radius: 20px;
+}
